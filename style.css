@@ -7,7 +7,7 @@
   body {
     background-color:rgba(251, 251, 251, 0.238);
   }
-  .box {
+  .conatiner {
     display: flex;
     align-items: center;
     justify-content: center;
